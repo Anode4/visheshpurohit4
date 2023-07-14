@@ -1,4 +1,4 @@
-[![MasterHead](lambdatest.com/resources/images/news24.gif)]
+
 <h1 align="center">Hi 👋, I'm Vishesh Purohit</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
